@@ -27,7 +27,7 @@ function calculateMinCost() {
     }
 
     const resultDiv = document.getElementById('result');
-    resultDiv.innerText = "Minimum Cost: " + minCost;
+    resultDiv.innerText = minCost;
 }
 
 
